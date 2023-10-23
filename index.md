@@ -4,7 +4,7 @@ layout: default
 
 # FEATURED ✦
 
-[Contralto:](https://contralto.herokuapp.com/){:target="_blank"} A Flask app analyzing the gender diversity of your Spotify playlists.   
+[Contralto:](/contralto) A Flask app analyzing the gender diversity of your Spotify playlists.   
 
 [CTRRRL-ZINE:](https://cdinhart.itch.io/ctrrrl-zine){:target="_blank"} A printable, pocket-sized punk guide to creative coding.
 
