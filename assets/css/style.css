@@ -536,7 +536,8 @@ input:checked + .slider:before {
 }
 
 .carbonbadge{
-  float: left !important;
+  display: block;
+  float: left;
 }
 
 hr{

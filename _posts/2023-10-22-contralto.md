@@ -17,7 +17,8 @@ Prior to building the app, I designed high-fidelity prototypes in Adobe XD to es
 Inspired by my love for the male-dominated genres of rock and metal. 
 
 [GitHub](https://github.com/caroldinh/contralto){:target="_blank"}  
-[Live link](https://contralto.herokuapp.com/){:target="_blank"}
+[Live link](https://contralto.herokuapp.com/){:target="_blank"}  
+[Bonus: Asian American Rock History playlist](https://open.spotify.com/playlist/3H1COm6BlUZ1FtFwxJcKeo){:target="_blank"}
 
 ![](assets/images/contralto/home.jpg){:class="image-wide"}   
 ![](assets/images/contralto/contralto_screenshot.jpg){:class="image-wide"}   

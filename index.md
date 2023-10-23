@@ -21,3 +21,8 @@ Email: cdinhart [at] gmail [dot] com
 [GitHub](https://github.com/caroldinh){:target="_blank"}  
 [Mastodon](https://vis.social/@cyborgforty){:target="_blank"}  
 [Instagram](https://instagram.com/url.ocalcyborg){:target="_blank"}  
+
+---
+
+<div id="wcb" class="carbonbadge"></div>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script><br><br>
