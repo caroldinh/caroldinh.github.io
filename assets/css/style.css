@@ -68,6 +68,14 @@ a {
   font-weight: bolder;
 }
 
+code {
+  display: block;
+  width: 100%;
+  overflow: scroll;
+  max-width: 100%;
+  word-wrap: break-word
+}
+
 .site-header {
   color: var(--text-color);
 }
@@ -232,8 +240,9 @@ table{
 }
 
 .split-column{
-  width: 48% !important;
-  margin-right: 1% !important;
+  width: 48%;
+  margin-right: 1%;
+  margin-bottom: 1%;
   display: inline-block;
 }
 
@@ -402,132 +411,12 @@ li{
   line-height: 2em;
 }
 
-.price-chart{
-  border: 1px none var(--text-color);
-  border-radius: 0px;
-  padding-left: 2%;
-  padding-right: 2%;
-}
-
-.price-chart th{
-  border-bottom: 0.5px ridge var(--link-color);
-  padding: 2%;
-}
-
-.price-chart .lastrow{
-  border-bottom: 0px none !important;
-}
-
 .left{
   text-align: left;
 }
 
 th {
   padding-right: 5%;
-}
-
-.theme-icon{
-  position: relative;
-  display: inline-block;
-  width: auto;
-  top: 7px;
-  height: 18px;
-  color: var(--text-color);
-  -webkit-user-select: none;  /* Chrome all / Safari all */
-  -moz-user-select: none;     /* Firefox all */
-  -ms-user-select: none;      /* IE 10+ */
-  user-select: none;          /* Likely future */     
-}
-
-.sun{
-  left: 6px;
-}
-
-.moon{
-  left: 33px;  
-}
-
-.switch {
-  margin-top: 5vh;
-  position: relative;
-  display: block;
-  width: 60px;
-  height: 34px;
-}
-
-/* Hide default HTML checkbox */
-.switch input {
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-
-/* The slider */
-.slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: var(--background-color);
-  -webkit-transition: .4s;
-  transition: .4s;
-  border: 1px solid var(--link-color);
-}
-
-.slider:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  top: 3px;
-  left: 4px;
-  bottom: 4px;
-  background-color: none;
-  -webkit-transition: .4s;
-  transition: .4s;
-  filter:brightness(var(--planet-brightness));
-}
-
-input:checked + .slider {
-  background-color: var(--link-color);
-}
-
-input:focus + .slider {
-}
-
-input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(26px);
-}
-
-/* Rounded sliders */
-.slider.round {
-  border-radius: 34px;
-}
-
-.slider.round:before {
-  border-radius: 50%;
-  background-image: url('../public/images/generative/jitter6.jpg');
-  background-size:contain;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.social{
-  width: 5vh;
-  fill: white !important;
-  margin-top: 2vh;
-}
-
-.social:hover{
-  fill: var(--link-color);
-}
-
-#instagram{
-  /*background-image: url(instagram.svg);*/
 }
 
 .col{
@@ -544,6 +433,10 @@ hr{
   height: 3vh;
   border: none;
 }
+  video {
+    width: 70%;
+    height: fit-content;
+  }
 
 /**********************************************************************************************************************/
 
@@ -553,8 +446,29 @@ hr{
     padding: 50px;
   }
 
-  .titan-bottom{
-    display: none;
+  p {
+    width: 100%;
+  }
+
+  video {
+    width: 100%;
+    height: fit-content;
+  }
+
+  .gallery {
+    word-wrap: break-word;
+  }
+
+  .gallery div{
+    width: 100%;
+  }
+
+  .gallery pre{
+    width: 100%;
+  }
+
+  h1 {
+    text-align: left;
   }
   
   .about-me{
@@ -590,21 +504,9 @@ hr{
     width: 100% !important;
   }
 
-  .gallery h1{
-    float: center !important;
-    margin: auto;
-    margin-bottom: 3vh;
-    align-self: center;
-    text-align: center;
-  }
-
   .sidebar{
     position: relative;
     width: 100%;
-    margin-right: auto !important;
-    margin-left: auto !important;
-    align-content: center !important;
-    text-align: center !important;
   }
 
   .sidebar p{
@@ -619,21 +521,7 @@ hr{
   }
 
   .navlink{
-    display: inline-block !important;
-    margin-right: 20px !important;
-    margin-left: 20px !important;
-    align-self: center !important;
-    text-align: center !important;
-    align-items: center !important;
-    justify-content: center !important;
-    border: 0px solid var(--text-color);
-    padding: 5px 10px;
-    border-radius: 0px;
-    margin-bottom: 15px !important;
-    margin-right: 3px !important;
-    margin-left: 3px !important;
-    opacity: 1 !important;
-    white-space: nowrap;
+    display: block;
   }
 
   .navlink:hover{

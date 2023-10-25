@@ -8,7 +8,7 @@ alt: ""
 published: true
 ---
 
-# Early Birds
+# Early Birds (2023)
 
 Built Fall 2023 with D3.js and Twitter API data. I became curious about who else had first-name Twitter handles after stalking some rock star profiles (@Billy and formerly @Courtney). This is my first data-driven visual story.   
 
