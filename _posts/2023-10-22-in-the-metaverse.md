@@ -13,7 +13,7 @@ published: true
 Popularized in the English language by Agha Shahid Ali, the ghazal is one of my favorite poetry forms. For my ARTT255 Digital Art class, I made a video in Adobe Premiere Pro to accompany a ghazal I'd written about the metaverse buzz. The voiceover is my own reading with sound effects from FreeSound.org. Inspired by the hypersaturated "corporate art style," I illustrated each panel in Adobe Photoshop and edited handwritten scans of the poem in time with the recording.
 
 <video width="70%" height="500px" controls>
-  <source src="/assets/images/metaverse/inthemetaverse.mp4" type="video/mp4">
+  <source src="https://github.com/caroldinh/caroldinh.github.io/raw/main/assets/images/metaverse/inthemetaverse.mp4" type="video/mp4">
 </video>
 
 ### In the Metaverse

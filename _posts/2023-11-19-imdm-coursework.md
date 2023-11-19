@@ -17,12 +17,12 @@ Coursework from various classes at the University of Maryland's Immersive Media 
 ## LUNOKHOD 1 (2021)
 IMDM101 group project built for Oculus Quest 2 with Unity.
 <video width="70%" height="500px" controls>
-  <source src="/assets/images/imdm/lunokhod.mp4" type="video/mp4">
+  <source src="https://github.com/caroldinh/caroldinh.github.io/raw/main/assets/images/imdm/lunokhod.mp4" type="video/mp4">
 </video>
 
 ## ELECTRONIC WASTELAND (2023)
 IMDM290 group project built for Oculus Quest 2 with Unity.
 <video width="70%" height="500px" controls>
-  <source src="/assets/images/imdm/electronic-wasteland.mp4" type="video/mp4">
+  <source src="https://github.com/caroldinh/caroldinh.github.io/raw/main/assets/images/imdm/electronic-wasteland.mp4" type="video/mp4">
 </video>
 

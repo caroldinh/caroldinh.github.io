@@ -15,7 +15,7 @@ HDCC105 final project. "For The Record" is an AR collage exploring the relations
 Built in Unity using AR Foundation's Image Tracking. Poster designed in Photoshop.   
 
 <video width="70%" height="500px" controls>
-  <source src="/assets/images/for-the-record/video.mp4" type="video/mp4">
+  <source src="https://github.com/caroldinh/caroldinh.github.io/raw/main/assets/images/for-the-record/video.mp4" type="video/mp4">
 </video>
 
 ![](assets/images/for-the-record/screenshot1.jpg){:class="image-wide"}  
