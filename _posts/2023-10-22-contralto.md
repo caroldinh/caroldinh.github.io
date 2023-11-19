@@ -2,7 +2,7 @@
 layout: default
 title: "Contralto"
 date: 2023-10-22 -0500
-category: "tech"
+category: "digital"
 image: "assets/images/contralto/contralto_screenshot.jpg"
 alt: ""
 published: true

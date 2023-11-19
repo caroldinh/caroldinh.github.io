@@ -6,7 +6,7 @@ layout: default
 
 [Contralto:](/contralto) A Flask app analyzing the gender diversity of your Spotify playlists.   
 
-[CTRRRL-ZINE:](https://cdinhart.itch.io/ctrrrl-zine){:target="_blank"} A printable, pocket-sized punk guide to creative coding.
+[CTRRRL-ZINE:](/ctrrrl-zine) A printable, pocket-sized punk guide to creative coding.
 
 [UR LOCAL CYBORG:](https://urlocalcyb.org){:target="_blank"} Art reviews from the DMV creative tech scene.
 
@@ -14,7 +14,7 @@ layout: default
 
 # ABOUT ✦
 
-Hey there! Call me Carol. I am an zinester and creative coder studying immersive media and digital storytelling. I reside in Piscataway and Nacotchtank land.
+Hey there! I am a zinester and creative coder studying immersive media and digital storytelling. I reside in Piscataway and Nacotchtank land.
 
 Email: cdinhart [at] gmail [dot] com   
 

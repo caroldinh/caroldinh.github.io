@@ -2,7 +2,7 @@
 layout: default
 title: "Early Birds"
 date: 2023-10-22 -0500
-category: "tech"
+category: "digital"
 image: "assets/images/earlybird/billy.jpg"
 alt: ""
 published: true
