@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
 :root{
-  --heading-font: 'JetBrains Mono', monospace;
-  --body-font: 'JetBrains Mono', monospace;
-  --subheading-font: 'JetBrains Mono', monospace;
-  --background-color: #1e1e1e;
+  --heading-font: 'Jetbrains Mono', monospace;
+  --body-font: 'Alegreya', serif;
+  --subheading-font: 'Jetbrains Mono', monospace;
+  --background-color: #000000;
   --opposite-color: #1bd2b3;
   --text-color: #ffffff;
   --link-color: #1bd2b3;
@@ -34,7 +36,6 @@ body{
   background-color: var(--background-color);
   font-family: var(--body-font);
   font-weight: 400;
-  /*font-family: 'DM Sans', sans-serif;*/
   padding: 8vh;
   color: var(--text-color);
 }
@@ -397,6 +398,10 @@ a:hover{
 .navlink:hover{
   cursor:pointer;
   opacity: 1 !important;
+}
+
+.about-link {
+  font-family: var(--subheading-font);
 }
 
 .badge{

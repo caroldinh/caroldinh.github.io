@@ -4,7 +4,7 @@ layout: default
 
 # ABOUT ✦
 
-Hey there! I am a zinester and creative coder studying immersive media and digital storytelling. I reside in Piscataway and Nacotchtank land.
+Carol Dinh is a writer and new media artist based in the D.C. metropolitan area.
 
 Email: cdinhart [at] gmail [dot] com   
 

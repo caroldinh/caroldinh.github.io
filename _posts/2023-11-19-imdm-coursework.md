@@ -5,7 +5,7 @@ date: 2023-11-19 -0500
 category: "immersive"
 image: "assets/images/imdm/lunokhod.jpg"
 alt: ""
-published: true
+published: false
 ---
 
 # IMDM Coursework (2021-24)

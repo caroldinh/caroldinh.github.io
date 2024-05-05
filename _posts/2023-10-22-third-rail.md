@@ -2,7 +2,7 @@
 layout: default
 title: "Third Rail Radio Flyers"
 date: 2023-10-22 -0500
-category: "print"
+category: "print home"
 image: "assets/images/wmuc/fftd.jpg"
 alt: ""
 published: true
@@ -15,5 +15,7 @@ Created with Adobe Photoshop for [WMUC](https://wmuc.umd.edu/){:target="_blank"}
 
 ![](assets/images/wmuc/fftd.jpg){:class="split-column"}
 ![](assets/images/wmuc/virtua.jpg){:class="split-column"}
+![](assets/images/wmuc/apr28.png){:class="split-column"}
+![](assets/images/wmuc/may5_2.png){:class="split-column"}
 ![](assets/images/wmuc/ajola.jpg){:class="split-column"}
 ![](assets/images/wmuc/toro_flyer.jpg){:class="split-column"}
