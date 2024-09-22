@@ -2,7 +2,7 @@
 layout: default
 title: "The Immersive Experience"
 date: 2023-11-19 -0500
-category: "immersive home"
+category: "2023 home"
 image: "assets/images/tie/screenshot2.jpg"
 alt: ""
 published: true

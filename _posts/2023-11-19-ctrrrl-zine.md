@@ -2,7 +2,7 @@
 layout: default
 title: "CTRRRL-ZINE"
 date: 2023-11-19 -0500
-category: "print home"
+category: "2022 home"
 image: "assets/images/ctrrrl-zine/zines.jpg"
 alt: ""
 published: true

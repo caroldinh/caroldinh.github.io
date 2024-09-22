@@ -2,7 +2,7 @@
 layout: default
 title: "Third Rail Radio Flyers"
 date: 2023-10-22 -0500
-category: "print home"
+category: "2023 home"
 image: "assets/images/wmuc/fftd.jpg"
 alt: ""
 published: true

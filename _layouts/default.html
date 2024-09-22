@@ -13,16 +13,30 @@
     -->
     <link rel="icon" type="image/x-icon" href="/assets/images/jitter/jitter1.jpg">
     <title>PORTFOLIO</title>
+    <script>
+      const expandCollapse = () => {
+        console.log("clicked")
+        const workList = document.getElementById("work-list");
+        if (workList.style.display === 'block') 
+          workList.style.display = 'none';
+        else
+          workList.style.display = 'block'
+      }
+    </script>
   </head>
   <body>
     <div id="root">
     <div class="sidebar">
 
           <h1 id="title"><a class="site-header" href="/">CAROL DINH ✦</a></h1>
-            <a class="navlink" href="/print">>> cd ~/print</a>
-            <a class="navlink" href="/digital">>> cd ~/digital</a>
-            <a class="navlink" href="/immersive">>> cd ~/immersive</a>
-            <a class="navlink" href="/workshops">>> cd ~/workshops</a>
+            <div class="navlink" onclick="expandCollapse()">>> ls ~/work</div>
+            <ul id="work-list">
+              <li><a class="navlink" href="/2024">>> 2024</a></li>
+              <li><a class="navlink" href="/2023">>> 2023</a></li>
+              <li><a class="navlink" href="/2022">>> 2022</a></li>
+              <li><a class="navlink" href="/2021">>> 2021</a></li>
+            </ul>
+            <a class="navlink" href="/teaching">>> cd ~/teaching</a>
             <a class="navlink" href="/writing">>> cd ~/writing</a>
             <a class="navlink" href="/professional">>> cd ~/professional</a>
             

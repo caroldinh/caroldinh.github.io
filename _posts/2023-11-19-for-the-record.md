@@ -2,7 +2,7 @@
 layout: default
 title: "The Immersive Experience"
 date: 2021-11-19 -0500
-category: "immersive"
+category: "2021"
 image: "assets/images/for-the-record/poster.jpg"
 alt: ""
 published: true

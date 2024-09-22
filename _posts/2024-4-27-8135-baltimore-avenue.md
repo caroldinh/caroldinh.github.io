@@ -2,7 +2,7 @@
 layout: default
 title: "Superfluity"
 date: 2023-11-19 -0500
-category: "home immersive"
+category: "home 2024"
 image: "assets/images/8135/exhibit1.png"
 alt: ""
 published: true

@@ -4,7 +4,7 @@ layout: default
 
 # ABOUT ✦
 
-Carol Dinh is a writer and new media artist residing in occupied Piscataway land. She holds a B.S. in Immersive Media Design from the University of Maryland.   
+Carol Dinh is a writer and multidisciplinary artist residing in occupied Piscataway land. She holds a B.S. in Immersive Media Design from the University of Maryland.   
 
 Email: cdinhart [at] gmail [dot] com   
 

@@ -2,7 +2,7 @@
 layout: default
 title: "In The Metaverse"
 date: 2023-10-23 -0500
-category: "digital home"
+category: "2022 home"
 image: "assets/images/metaverse/panel_8.jpg"
 alt: ""
 published: true

@@ -438,10 +438,15 @@ hr{
   height: 3vh;
   border: none;
 }
-  video {
-    width: 70%;
-    height: fit-content;
-  }
+video {
+  width: 70%;
+  height: fit-content;
+}
+
+#work-list {
+  display: none;
+  list-style: none;
+}
 
 /**********************************************************************************************************************/
 

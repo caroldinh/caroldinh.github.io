@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h1>2023 ✦</h1>
+
+{% for post in site.posts %}
+    {% if post.category contains "2023" %}
+        {% include image_preview.html %}
+    {% endif %}
+{% endfor %}
