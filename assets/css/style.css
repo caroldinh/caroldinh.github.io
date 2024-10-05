@@ -114,6 +114,8 @@ h1{
   line-height: 1.2;
   margin-bottom: 3vh;
   font-size: 5vh !important;
+  width: 70%;
+  text-align: left;
 }
 
 .emoji{
