@@ -3,7 +3,7 @@ layout: default
 title: "Superfluity"
 date: 2023-11-19 -0500
 category: "home 2024"
-image: "assets/images/8135/exhibit1.png"
+image: "assets/images/8135/bave2.gif"
 alt: ""
 published: true
 ---

@@ -4,9 +4,8 @@ layout: default
 
 # WRITING ✦
 
-## ESSAYS / REVIEWS
+## ESSAYS
 
-[This Barbie is a VR Headset](https://storymaps.arcgis.com/stories/521c2b8ae32643578c90d34ec7ec26ce){:target="_blank"}. MITH388 with Prof. Moro. 2024.
 
 [A Reckoning: Performance, Notation, and Memory in *Kentucky Route Zero*](/assets/pdf/KentuckyRouteZero.pdf){:target="_blank"}. MITH388 with Prof. Moro. 2024.
 
@@ -19,7 +18,7 @@ layout: default
 
 ---
 
-## POETRY / FICTION
+## POETRY
 
 [Reverse Travelogue](https://dvan.org/2023/10/reverse-travelogue/){:target="_blank"}. *diaCRITICS*. 2023.   
 
@@ -27,7 +26,23 @@ layout: default
 
 [city girls](http://strangehorizons.com/poetry/city-girls/){:target="_blank"}. *Strange Horizons*. 2021.
 
+---
+
+## FICTION
+
 [DEPLOY](https://flashpointsf.com/2021/04/09/deploy/){:target="_blank"}. *Flash Point SF*. 2021.
+
+
+---
+
+## INTERACTIVE
+
+[This Barbie is a VR Headset](https://storymaps.arcgis.com/stories/521c2b8ae32643578c90d34ec7ec26ce){:target="_blank"}. MITH388 with Prof. Moro. 2024.  
+
+[ALT ACCOUNT](https://urlocalcyborg.itch.io/alt-account){:target="_blank"}. 2022.
+
+[code to bisexuality](https://caroldinh.github.io/code-to-bi/){:target="_blank"}. *petrichor mag* ([original](https://petrichormag.com/18-c-t-dinh/){:target="_blank"}). 2021.   
+
 
 ---
 
