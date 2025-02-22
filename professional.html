@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>PROFESSIONAL WORK ✦</h1>
+
+{% for post in site.posts %}
+    {% if post.category contains "professional" %}
+        {% include image_preview.html %}
+    {% endif %}
+{% endfor %}
+
+<!--
+<iframe src="https://drive.google.com/file/d/115RMYSZtDVSxLgkGsqug-yV0XppW7UtB/preview" width="100%" height="800px"></iframe>
+-->
