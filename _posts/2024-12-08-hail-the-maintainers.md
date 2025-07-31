@@ -8,7 +8,7 @@ alt: ""
 published: true
 ---
 
-# HAIL THE MAINTAINERS
+# HAIL THE MAINTAINERS (2024)
 **Hail The Maintainers,** 12”x24”, acrylic & tillandsia on canvas   
 *on display at Rhizome DC from 2024.12.08 to 2025.01.04*   
 

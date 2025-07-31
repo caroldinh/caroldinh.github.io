@@ -8,12 +8,12 @@ alt: ""
 published: true
 ---
 
-# DAWN OF THE LIVECODING DEAD
+# DAWN OF THE LIVECODING DEAD (2024)
 
 A Halloween workshop on DJing/VJing with code.   
 [Event link](https://www.rhizomedc.org/new-events/2024/11/2/dawn-of-the-livecoding-dead-workshop){:target="_blank"}
 
-# NIGHT OF THE LIVECODING DEAD
+# NIGHT OF THE LIVECODING DEAD (2024)
 
 An algorave featuring artists from all over the East Coast.  
 [Event link](https://www.rhizomedc.org/new-events/2024/11/2/-night-of-the-livecoding-dead-show-){:target="_blank"}
