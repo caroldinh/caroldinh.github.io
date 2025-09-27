@@ -2,7 +2,7 @@
 layout: default
 title: "Superfluity"
 date: 2023-11-19 -0500
-category: "home 2024"
+category: "home 2024 technology"
 image: "assets/images/8135/bave2.gif"
 alt: ""
 published: true

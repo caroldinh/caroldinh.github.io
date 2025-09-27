@@ -2,7 +2,7 @@
 layout: default
 title: "The Last Man"
 date: 2025-02-21 -0500
-category: "2025 home"
+category: "2025 home art"
 image: "assets/images/the-last-man/thelastman_cover.png"
 alt: ""
 published: true

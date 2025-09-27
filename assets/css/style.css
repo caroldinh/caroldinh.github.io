@@ -69,6 +69,26 @@ a {
   font-weight: bolder;
 }
 
+li {
+  width: 70%
+}
+
+details {
+  width: unset;
+}
+
+summary {
+  display: block;
+  color: var(--text-color);
+  text-decoration:none !important;
+  transition: 0.3s;
+  border-bottom: 3px solid var(--link-color);
+  font-weight: bolder;
+  margin-bottom: 8px;
+  cursor: pointer;
+  font-size: 1.25em;
+}
+
 code {
   display: block;
   width: 100%;

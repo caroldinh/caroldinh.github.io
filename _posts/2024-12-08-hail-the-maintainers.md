@@ -2,7 +2,7 @@
 layout: default
 title: "Livecoding Workshop for Women and Gender EXpansive Coders DC"
 date: 2024-12-04 -0500
-category: "2024"
+category: "2024 art"
 image: "assets/images/steam-engine/3.jpg"
 alt: ""
 published: true

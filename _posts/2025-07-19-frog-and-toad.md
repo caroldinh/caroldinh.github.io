@@ -2,7 +2,7 @@
 layout: default
 title: "Frog and Toad"
 date: 2025-07-19 -0500
-category: "2025 home"
+category: "2025 home art"
 image: "assets/images/frog-and-toad/1.jpg"
 alt: ""
 published: true

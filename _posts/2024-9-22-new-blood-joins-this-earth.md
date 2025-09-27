@@ -2,7 +2,7 @@
 layout: default
 title: New Blood Joins This Earth
 date: 2023-11-19 -0500
-category: "2024 home"
+category: "2024 home technology"
 image: "assets/images/metallica/blacklist_thumbnail.gif"
 alt: ""
 published: true

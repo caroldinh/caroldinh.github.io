@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h1>PROFESSIONAL WORK ✦</h1>
+<h1>TECH & INTERACTIVES ✦</h1>
 
 {% for post in site.posts %}
-    {% if post.category contains "professional" %}
+    {% if post.category contains "technology" %}
         {% include image_preview.html %}
     {% endif %}
 {% endfor %}

@@ -2,7 +2,7 @@
 layout: default
 title: "Exhalation"
 date: 2025-04-01 -0500
-category: "2025 home"
+category: "2025 home art"
 image: "assets/images/exhalation/cover_small.jpg"
 alt: ""
 published: true
