@@ -4,7 +4,7 @@ layout: default
 
 # ABOUT ✦
 
-Caroline Dinh is thinking about speculative fiction, new media art, and who she'll feed this week. By day, she develops software for environmental education; by night, she folds zines, reads novels, and chips away at her own. Caroline's professional and scholarly interests lie in educational technology, digital humanities, information design, and human-computer interaction. She holds a B.S. in Immersive Media Design from the University of Maryland and resides on occupied Piscataway land.   
+Caroline Dinh is thinking about speculative fiction, new media art, and the next recipe she'll try. By day, she develops software for environmental education; by night, she paints, reads novels, and chips away at her own. Caroline's professional and scholarly interests lie in educational technology, digital humanities, information design, and human-computer interaction. She holds a B.S. in Immersive Media Design from the University of Maryland and resides on occupied Piscataway land.   
 
 Reach out if you want to talk zine trades, commissions, or creative workshops; I'd love to hear from you. My email is cdinhart [at] gmail [dot] com.   
 
