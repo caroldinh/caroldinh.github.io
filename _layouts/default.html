@@ -40,7 +40,13 @@
       {% endfor %}
     </div>
     <div class="portfolio-main {{ page.additional_page_classes }}">
-      {{ content }}
+      {% if page.navbar_name == nil %}
+        <a class="back-link" onclick="window.history.back()">← cd ..</a>
+      {% endif %}
+        {{ content }}
+      {% if page.navbar_name == nil %}
+        <a class="back-link" onclick="window.history.back()">← cd ..</a>
+      {% endif %}
     </div>
     <div class="footer">
       <p>🚧 Site under construction 🚧</p>

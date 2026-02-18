@@ -2,7 +2,7 @@
 title: info
 layout: default
 navbar_name: 'info'
-order: 4
+order: 5
 ---
 
 Welcome to my portfolio! My name is **Caroline Dinh** and I am an early-career software developer with experience in creative and educational technology. 

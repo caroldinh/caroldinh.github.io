@@ -1,0 +1,32 @@
+---
+navbar_name: design
+layout: default
+additional_page_classes: gallery
+order: 4
+---
+
+<div class="gallery-title">
+    <h2>Design</h2>
+    <p>Print, digital and video editing projects I've worked on.</p>
+</div>
+
+{% assign featured = site.posts | where_exp:"item", "item.category contains 'design'" %}
+<div class="masonry-container">
+    <div class="masonry-column">
+        {% for post in featured %}
+        {% assign mod = forloop.index | modulo: 2 %}
+        {% if mod == 1 %}
+        {% include image_preview.html %}
+        {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="masonry-column">
+        {% for post in featured %}
+        {% assign mod = forloop.index | modulo: 2 %}
+        {% if mod == 0 %}
+        {% include image_preview.html %}
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
