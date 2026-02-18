@@ -1,0 +1,16 @@
+---
+title: "side quests"
+navbar_name: side-quests
+layout: default
+order: 3
+---
+
+<h2>Creative Technology</h2>
+<p>Things I built for fun.</p>
+<div class="project-preview-container">
+{% for post in site.posts %}
+    {% if post.category contains "creative-tech" %}
+        {% include project_preview.html %}
+    {% endif %}
+{% endfor %}
+</div>

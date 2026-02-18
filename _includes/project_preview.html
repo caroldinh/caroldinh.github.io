@@ -1,0 +1,15 @@
+<div class="project-preview">
+    <div class="project-image-container">
+    <img class="project-image" src={{ post.image | relative_url }}>
+    </div>
+    <div class="project-info">
+        <h4>{{post.title}}</h4>
+        <p class="date-range">{{post.date_range}}</p>
+        <p class="project-description">{{post.description}}</p>
+        <div class="project-skillsets">
+            {% for skill in post.skillsets %}
+                <span class="project-skill">{{skill}}</span>
+            {% endfor %}
+        </div>
+    </div>
+</div>

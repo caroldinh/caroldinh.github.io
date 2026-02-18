@@ -1,10 +1,16 @@
 ---
 layout: default
-title: "Superfluity"
+title: "8135 Baltimore Avenue"
 date: 2023-11-19 -0500
-category: "home 2024 technology"
+date_range: SPRING 2024
+category: "past-work"
 image: "assets/images/8135/bave2.gif"
 alt: ""
+description: An immersive digital exhibit about remembering the small businesses of Campus Village Shoppes, College Park, MD
+skillsets:
+- Immersive design
+- Game development
+- 3D
 published: true
 ---
 

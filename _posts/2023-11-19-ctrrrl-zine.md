@@ -2,8 +2,14 @@
 layout: default
 title: "CTRRRL-ZINE"
 date: 2023-11-19 -0500
-category: "2022 home art"
+category: "creative-tech"
 image: "assets/images/ctrrrl-zine/zines.jpg"
+date_range: "FALL 2022"
+description: "A punk guide to creative coding with p5.js."
+skillsets: 
+- Print
+- Zine
+- Education
 alt: ""
 published: true
 ---
