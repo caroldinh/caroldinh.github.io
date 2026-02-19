@@ -28,4 +28,4 @@ When I first joined GaiaXus, its sensors were controlled by a prototypical mobil
 
 ## Evaluating app for WCAG 2.2 compliance
 
-(This page is under construction! Case studies and images will be added soon.)
+(This page is under construction! Case studies and images will be added soon. In the meantime, you can check out the Android app [here](https://play.google.com/store/apps/details?id=com.gaiaxus){:target="_blank} and the iOS app [here](https://apps.apple.com/us/app/gaiaxus/id6748620502){:target="_blank"}.)

@@ -27,4 +27,4 @@ There was a time at the beginning of my position where GaiaXus's Web Portal was 
 
 ## Refactoring database indexes and schema for a fast, visually pleasing data review interface  
 
-(This page is under construction! Case studies and images will be added soon.)
+(This page is under construction! Case studies and images will be added soon. In the meantime, you can learn more about the product [here](https://gaiaxus.com/){:target="_blank"}.)
