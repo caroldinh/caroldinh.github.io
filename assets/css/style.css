@@ -14,10 +14,6 @@
   --shadow-color: black;
 }
 
-html {
-  scrollbar-width: none;
-}
-
 body {
   background-color: var(--background-color);
   padding-left: 12vw;

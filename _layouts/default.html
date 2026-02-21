@@ -19,11 +19,11 @@
 <body>
   <div id="root">
     {% if page.url != '/' %}
-    <div class="flex-col">
+    <a class="flex-col" href="{{ '/' | relative_url }}">
       <img class="profile-img-small" src="{{ 'assets/images/profile/art.jpg' | relative_url }}">
       <h1 class="top-header">Caroline Dinh</h1>
       <p class="top-header">Software developer & creative technologist</p>
-    </div>
+    </a>
     {% endif %}
     <div class="links">
       {% assign sections = site.pages | where_exp: "item", "item.navbar_name != nil" | sort: "order" %}
@@ -40,17 +40,16 @@
       {% endfor %}
     </div>
     <div class="portfolio-main {{ page.additional_page_classes }}">
-      {% if page.navbar_name == nil %}
+      {% if page.navbar_name == nil and page.url != '/' %}
         <a class="back-link" onclick="window.history.back()">← cd ..</a>
       {% endif %}
         {{ content }}
-      {% if page.navbar_name == nil %}
+      {% if page.navbar_name == nil and page.url != '/' %}
         <a class="back-link" onclick="window.history.back()">← cd ..</a>
       {% endif %}
     </div>
     <div class="footer">
-      <p>🚧 Site under construction 🚧</p>
-      <p>Built with 🤘🏻</p>
+      <p>Built with 🤘🏻 by Caroline Dinh</p>
       <div class="social-icons">
         <a class="social-icon-link filter-invert" href="https://github.com/caroldinh/" target="_blank">
           <img class="social-icon" src="{{ 'assets/images/github_cropped.svg' | relative_url }}">
@@ -61,6 +60,10 @@
         </a>
         <a class="social-icon-link" href="https://orcid.org/0009-0005-7165-5172" target="_blank">
           <img class="social-icon" src="{{ 'assets/images/orcid.svg' | relative_url }}">
+        </a>
+        <a class="social-icon-link filter-invert" href="https://urlocalcyb.org/"
+          target="_blank">
+          <img class="social-icon" src="{{ 'assets/images/palette_cropped.svg' | relative_url }}">
         </a>
       </div>
     </div>

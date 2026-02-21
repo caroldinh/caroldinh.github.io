@@ -1,6 +1,5 @@
 ---
 layout: default
-navbar_name: ''
 additional_page_classes: home
 ---
 
