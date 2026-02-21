@@ -10,13 +10,13 @@ order: 4
     <p>Print, digital and video editing projects I've worked on.</p>
 </div>
 
-{% assign featured = site.posts | where_exp:"item", "item.category contains 'design'" %}
+{% assign featured = site.designs | reverse %}
 <div class="masonry-container">
     <div class="masonry-column">
         {% for post in featured %}
         {% assign mod = forloop.index | modulo: 2 %}
         {% if mod == 1 %}
-        {% include image_preview.html %}
+        {% include masonry_image.html %}
         {% endif %}
         {% endfor %}
     </div>
@@ -25,7 +25,7 @@ order: 4
         {% for post in featured %}
         {% assign mod = forloop.index | modulo: 2 %}
         {% if mod == 0 %}
-        {% include image_preview.html %}
+        {% include masonry_image.html %}
         {% endif %}
         {% endfor %}
     </div>

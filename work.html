@@ -4,22 +4,20 @@ layout: default
 order: 2
 ---
 
+<p>Software development projects, including a combination of paid work, coursework, and personal projects.</p>
+
 <h2>Ongoing</h2>
-<p>How I spend my days right now.</p>
 <div class="project-preview-container">
-{% for post in site.posts %}
-    {% if post.category contains "current-work" %}
-        {% include project_preview.html %}
-    {% endif %}
+{% assign featured = site.projects | where_exp:"item", "item.category contains 'current-work'" | reverse %}
+{% for post in featured %}
+    {% include project_preview.html %}
 {% endfor %}
 </div>
 
 <h2>Past</h2>
-<p>Projects from university and previous work experiences.</p>
 <div class="project-preview-container">
-{% for post in site.posts %}
-    {% if post.category contains "past-work" %}
-        {% include project_preview.html %}
-    {% endif %}
+{% assign featured = site.projects | where_exp:"item", "item.category contains 'past-work'" | reverse %}
+{% for post in featured %}
+    {% include project_preview.html %}
 {% endfor %}
 </div>

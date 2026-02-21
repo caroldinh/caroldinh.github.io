@@ -1,9 +1,7 @@
-<a class="image" href={{ post.url | relative_url }}>
+<div class="image {{ post.additional_classes }} ">
     {% if post.youtube_url %}
         <iframe width="100%" height="300" src="{{ post.youtube_url }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     {% else %}
-    <img class="cover" src={{ post.image | relative_url }}
-    alt={{ post.image_alt }}></img>
-    <div class="gallery-title"><p>{{post.title.toUpperCase()}}</p></div>
+    <img class="cover" src={{ post.image | relative_url }} alt={{ post.image_alt }}></img>
     {% endif %}
-</a>
+</div>

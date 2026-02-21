@@ -2,9 +2,15 @@
 layout: default
 title: "Early Birds"
 date: 2023-10-22 -0500
-category: "2023"
+category: "past-work"
+date_range: FALL 2023
+description: I built data visualization of who owns the usernames @peter, @paul, and @mary - and other common first names - on Twitter.
 image: "assets/images/earlybird/billy.jpg"
 alt: ""
+skillsets:
+- Data visualization
+- API
+- Digital storytelling
 published: true
 ---
 
@@ -19,5 +25,5 @@ in February 2023, after first coming up with the project idea, I wrote a script 
 
 ---
 
-![](assets/images/earlybird/start_scroll.jpg){:class="image-wide"}   
-![](assets/images/earlybird/billy.jpg){:class="image-wide"}   
+![](/assets/images/earlybird/start_scroll.jpg){:class="image-wide"}   
+![](/assets/images/earlybird/billy.jpg){:class="image-wide"}   

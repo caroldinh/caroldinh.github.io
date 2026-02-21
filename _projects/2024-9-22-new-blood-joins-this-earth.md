@@ -2,10 +2,10 @@
 layout: default
 title: New Blood Joins This Earth
 date: 2023-11-19 -0500
-category: "creative-tech"
+category: "past-work"
 image: "assets/images/metallica/blacklist_thumbnail.gif"
 date_range: FALL 2024
-description: "A data visualization about the international inter-generational, cross-genre influence of Metallica. This project won a Pudding Cup Honorable Mention in 2024 and was longlisted for the Information is Beautiful Awards in 2025."
+description: "I made a data visualization about Metallica's 2021 cover compilation abum \"The Metallica Blacklist,\" and was recognized by the Pudding Cup and the Information is Beautiful Awards."
 skillsets:
 - Data visualization
 - Digital storytelling
@@ -22,7 +22,7 @@ A data visualization about the international, inter-generational, cross-genre in
 [GitHub](https://github.com/caroldinh/metallica-blacklist){:target="_blank"}  
 [Live link](https://caroldinh.github.io/metallica-blacklist){:target="_blank"}  
 
-![](assets/images/metallica/radar.png){:class="image-wide"}  
-![](assets/images/metallica/compare.png){:class="image-wide"}  
-![](assets/images/metallica/map.png){:class="image-wide"}  
-![](assets/images/metallica/gender.png){:class="image-wide"}  
+![](/assets/images/metallica/radar.png){:class="image-wide"}  
+![](/assets/images/metallica/compare.png){:class="image-wide"}  
+![](/assets/images/metallica/map.png){:class="image-wide"}  
+![](/assets/images/metallica/gender.png){:class="image-wide"}  

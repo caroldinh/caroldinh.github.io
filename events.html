@@ -1,0 +1,15 @@
+---
+navbar_name: events
+layout: default
+order: 3
+---
+
+<h2>Creative Coding Workshops</h2>
+
+<p>I have a background in environmental education and believe in community events as creative, exploratory breaks from the career world. Instructional materials from my events are posted below and are free to use and remix. </p>
+
+{% for post in site.events %}
+    {% if post.category contains "events" %}
+        {% include accordion_post.html %}
+    {% endif %}
+{% endfor %}

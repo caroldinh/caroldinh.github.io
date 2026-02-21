@@ -1,12 +1,21 @@
 ---
 layout: default
 title: "Contralto"
-date: 2023-10-22 -0500
-category: "2022 home technology"
+description: As a personal project, I built a web app for analyzing the gender diversity of a Spotify playlist and designed a database to hold artist profiles and recommendations. 
+date: 2022-02-22 -0500
+date_range: SPRING 2022
+category: "past-work"
 image: "assets/images/contralto/contralto_screenshot.jpg"
+skillsets:
+- Data visualization
+- Database design
+- Web scraping
+- API
+- Full-stack
 alt: ""
 published: true
 ---
+
 
 # Contralto (2022)
 
@@ -22,6 +31,6 @@ Inspired by my love for the male-dominated genres of rock and metal.
 
 ---
 
-![](assets/images/contralto/home.jpg){:class="image-wide"}   
-![](assets/images/contralto/contralto_screenshot.jpg){:class="image-wide"}   
-![](assets/images/contralto/fact_check.jpg){:class="image-wide"}  
+![](/assets/images/contralto/home.jpg)
+![](/assets/images/contralto/contralto_screenshot.jpg)
+![](/assets/images/contralto/fact_check.jpg)

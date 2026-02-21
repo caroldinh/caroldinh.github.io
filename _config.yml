@@ -30,14 +30,18 @@ github_username:  caroldinh
 permalink: /:title
 
 collections: 
-  works: 
+  events: 
     output: true
+    sort_by: date
+  projects: 
+    output: true
+    sort_by: date
+  designs: 
+    output: false
     sort_by: date
   news: 
     output: true
-  sections:
-    output: true
-    sort_by: order
+    sort_by: date
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

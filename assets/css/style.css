@@ -149,7 +149,7 @@ img.project-image {
   gap: 8px;
 }
 
-.project-info .date-range {
+.date-range {
   font-family: var(--subheading-font);
   color: var(--background-color);
   font-size: 0.75em;
@@ -255,10 +255,8 @@ img.project-image {
 
 .cover {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
-  opacity: 1;
-  transition: 0.5s;
+  height: unset;
+  object-fit: contain;
 }
 
 .gallery {
@@ -276,4 +274,21 @@ img.project-image {
   border-bottom: 2px solid var(--background-color);
   font-weight: bold;
   cursor: pointer;
+}
+
+summary {
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+  border-bottom: 2px solid var(--border-color);
+  align-items: center;
+}
+
+.accordion-right {
+  margin-left: auto;
+}
+
+.align-right {
+  text-align: right;
+  margin-left: auto;
 }
