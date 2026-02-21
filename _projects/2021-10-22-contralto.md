@@ -29,6 +29,8 @@ Inspired by my love for the male-dominated genres of rock and metal.
 [Live link](https://contralto.herokuapp.com/){:target="_blank"}  
 [Bonus: Asian American Rock History playlist](https://open.spotify.com/playlist/3H1COm6BlUZ1FtFwxJcKeo){:target="_blank"}
 
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/U8oWKvA5aHs?si=-8wD_Pjowne3MObx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ![](/assets/images/contralto/home.jpg)
